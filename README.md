@@ -48,4 +48,4 @@ The current implementation is still in the early stage and there are some issues
 1. Implement Vector Stores like FAISS to store the embeddings and retrieve the closest dot scores for faster processing and query.
 2. The current implementation uses context injection from the reviews and this takes a long time to process and uses so many tokens (every time the user query it will also send 20 relevant reviews regarding that question).
 
-<video src="" autoplay loop />
+<video src="https://github.com/user-attachments/assets/9a44e7e9-c304-4922-80f0-449cc96ff0a4" autoplay loop />
