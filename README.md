@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 ```
+On the first run, the application will load the embeddings from the `embeddings/` directory and load the embedding model. This process might take a while.
 
 ## Under the Hood
 
